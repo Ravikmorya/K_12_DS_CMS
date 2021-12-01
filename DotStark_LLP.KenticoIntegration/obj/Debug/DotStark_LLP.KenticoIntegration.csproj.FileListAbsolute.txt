@@ -15,6 +15,5 @@ C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\bin\D
 C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\bin\Debug\CMS.Helpers.xml
 C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\obj\Debug\DotStark_LLP.KenticoIntegration.csproj.AssemblyReference.cache
 C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\obj\Debug\DotStark_LLP.KenticoIntegration.csproj.CoreCompileInputs.cache
-C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\obj\Debug\DotStark_LLP.KenticoIntegration.csproj.CopyComplete
 C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\obj\Debug\DotStark_LLP.KenticoIntegration.dll
 C:\inetpub\wwwroot\Kentico12_1_DS\K12DSCMS\DotStark_LLP.KenticoIntegration\obj\Debug\DotStark_LLP.KenticoIntegration.pdb

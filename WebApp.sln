@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMSApp", "CMS\CMSApp.csproj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{D752DEF7-7F8E-41CF-AC48-794AE0265284}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotStark_LLP.KenticoIntegration", "DotStark_LLP.KenticoIntegration\DotStark_LLP.KenticoIntegration.csproj", "{827A0A1F-A4F0-4DDE-B3A5-F0ADD016809B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,10 @@ Global
 		{BB8817AE-48DF-4672-A1CB-CFB7441B88DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB8817AE-48DF-4672-A1CB-CFB7441B88DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB8817AE-48DF-4672-A1CB-CFB7441B88DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827A0A1F-A4F0-4DDE-B3A5-F0ADD016809B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827A0A1F-A4F0-4DDE-B3A5-F0ADD016809B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827A0A1F-A4F0-4DDE-B3A5-F0ADD016809B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827A0A1F-A4F0-4DDE-B3A5-F0ADD016809B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
